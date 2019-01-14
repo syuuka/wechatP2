@@ -1,0 +1,18 @@
+{
+  "tabBar": {
+    "list": [
+      {
+        "pagePath": "pages/hotMovie/hotMovie",
+        "text": "热门",
+        "iconPath": "/images/tabBar_hot.png",
+        "selectedIconPath": "/images/tabBar_hot.png"
+      },
+      {
+        "pagePath": "pages/myZone/myZone",
+        "text": "我的",
+        "iconPath": "/images/tabBar_myZone.png",
+        "selectedIconPath": "/images/tabBar_hot.png"
+      }
+    ]
+  }
+}

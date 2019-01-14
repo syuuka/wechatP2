@@ -1,0 +1,9 @@
+<view class='index'>
+  <image class='hotMovie_image' src='{{hotMovieImage}}' mode='widthFix'></image>
+  <view class='hotMovie_title' >{{hotMovieTitle}}</view>
+  <view class='hotMovie_line'>
+    <image src="{{user_head}}" class='user_head'></image>
+    <view class='hotMovie_recommender'>{{recommender}}  </view>
+    <view class='hotMovie_message' >{{recommendMessage}}</view>
+  </view>
+</view>

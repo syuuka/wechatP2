@@ -1,0 +1,40 @@
+/** 主页 */
+.index{
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  margin: 50rpx 80rpx;
+}
+
+.hotMovie_image{
+  width: 100%;
+  box-shadow: 10px 10px 20px 0 rgba(0, 0, 0, 0.6);
+  margin-bottom: 30rpx;
+}
+
+.hotMovie_title{
+  align-content: center;
+  font-size: 40rpx;
+  line-height: 56rpx;
+}
+
+.hotMovie_line{
+  display: flex;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+}
+
+.user_head{
+  width: 56rpx;
+  height: 56rpx;
+  border-radius: 28rpx;
+}
+
+.hotMovie_recommender{
+  opacity: 0.6;
+}
+
+.hotMovie_message{
+
+}
